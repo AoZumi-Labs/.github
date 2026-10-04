@@ -1,4 +1,4 @@
-# Shiplet Lab
+# Aozumi Lab
 
 Shiplet Lab builds open tools and managed infrastructure that help small teams turn software prototypes into dependable applications.
 
